@@ -1,0 +1,6 @@
+framework module Pods_chatApp_MVVM_chatApp_MVVMUITests {
+  umbrella header "Pods-chatApp-MVVM-chatApp-MVVMUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
